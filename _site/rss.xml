@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+        <title>van Douken</title>
+        <description>van Douken - Thomas Heller, Andreas Schäfer</description>
+        <link>http://vandouken.github.io</link>
+        <link>http://vandouken.github.io</link>
+        <lastBuildDate>2013-11-26T14:33:06+01:00</lastBuildDate>
+        <pubDate>2013-11-26T14:33:06+01:00</pubDate>
+        <ttl>1800</ttl>
+
+
+        <item>
+                <title>Hello World!</title>
+                <description>&lt;p&gt;Welcome to our new site! You will find all kinds of content and information on our artsy interpretation of a Particle in Cell Code here. We will soon feature more content!&lt;/p&gt;</description>
+                <link>http://vandouken.github.io/general/2013/11/26/hello-world</link>
+                <guid>http://vandouken.github.io/general/2013/11/26/hello-world</guid>
+                <pubDate>2013-11-26T00:00:00+01:00</pubDate>
+        </item>
+
+
+</channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>van Douken</title>
+ <link href="http://vandouken.github.io/" rel="self"/>
+ <link href="http://vandouken.github.io"/>
+ <updated>2013-11-26T14:33:06+01:00</updated>
+ <id>http://vandouken.github.io</id>
+ <author>
+   <name>Thomas Heller, Andreas Schäfer</name>
+   <email>thomas.heller@cs.fau.de, andreas.schaefer@cs.fau.de</email>
+ </author>
+
+ 
+ <entry>
+   <title>Hello World!</title>
+   <link href="http://vandouken.github.io/general/2013/11/26/hello-world"/>
+   <updated>2013-11-26T00:00:00+01:00</updated>
+   <id>http://vandouken.github.io/general/2013/11/26/hello-world</id>
+   <content type="html">&lt;p&gt;Welcome to our new site! You will find all kinds of content and information on our artsy interpretation of a Particle in Cell Code here. We will soon feature more content!&lt;/p&gt;</content>
+ </entry>
+ 
+ 
+</feed>
